@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:21478/SoapWebService/Vote?WSDL" uri="wsdl/localhost_21478/SoapWebService/Vote.wsdl"/>
+    <system systemId="http://localhost:21478/SoapWebService/Vote?xsd=1" uri="wsdl/localhost_21478/SoapWebService/Vote.xsd_1.xsd"/>
+    <system systemId="http://localhost:21478/SoapWebService/Greater?WSDL" uri="wsdl/localhost_21478/SoapWebService/Greater.wsdl"/>
+    <system systemId="http://localhost:21478/SoapWebService/Greater?xsd=1" uri="wsdl/localhost_21478/SoapWebService/Greater.xsd_1.xsd"/>
+    <system systemId="http://localhost:21478/SoapWebService/FirstWebService?WSDL" uri="wsdl/localhost_21478/SoapWebService/FirstWebService.wsdl"/>
+    <system systemId="http://localhost:21478/SoapWebService/FirstWebService?xsd=1" uri="wsdl/localhost_21478/SoapWebService/FirstWebService.xsd_1.xsd"/>
+</catalog>
